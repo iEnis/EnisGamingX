@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EnisGamingX
 - 👀 I’m interested in Developing
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning C++
 - 📫 How to reach me Discord => iEnis#0244
 
 <!---
